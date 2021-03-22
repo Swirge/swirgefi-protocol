@@ -1065,9 +1065,9 @@ contract StrategySwirgeMaxi is Ownable, Pausable {
 
     /**
      * @dev Third Party Contracts:
-     * {unirouter} - Streetswap router to use as AMM.
+     * {unirouter} - Pancakeswap router to use as AMM.
      */
-    address constant public unirouter = address(0x3bc677674df90A9e5D741f28f6CA303357D0E4Ec);
+    address constant public unirouter = address(0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F);
 
     /**
      * @dev Swirge Contracts:
