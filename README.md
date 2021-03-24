@@ -17,3 +17,9 @@ Valut Address: [0xED9b80B9a7C0544C1BeDa598BEfF67E0aeB8bE0d](https://bscscan.com/
 Strategy Address: [0x01b222b68521306f6369C31975618beE04eBd139](https://bscscan.com/address/0x01b222b68521306f6369c31975618bee04ebd139)
 
 StrategySwirgeMaxiOld: [0xc665F5854bb407c85f43B96346a09BEF6C7556Ba](https://bscscan.com/address/0xc665f5854bb407c85f43b96346a09bef6c7556ba)
+
+#RewardPools
+
+SwirgeJULd: [0x68f1a7ACC14F71E885Be66a1171F71A4470DD231](https://bscscan.com/address/0x68f1a7acc14f71e885be66a1171f71a4470dd231)
+
+SwirgeCAKE: [0xAed559D484A4F40896196e02bD378E8eE1E4d0Ae](https://bscscan.com/address/0xaed559d484a4f40896196e02bd378e8ee1e4d0ae)
